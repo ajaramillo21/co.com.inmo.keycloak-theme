@@ -1,0 +1,170 @@
+html.login-pf,
+.login-pf,
+.login-pf body,
+body.inmo-kc-body,
+.login-pf body.inmo-kc-body,
+.inmo-kc-login,
+.login-pf-page {
+    background: #ffffff !important;
+    background-image: none !important;
+}
+
+html.login-pf,
+.login-pf,
+body.inmo-kc-body,
+.login-pf body.inmo-kc-body,
+.inmo-kc-login,
+.login-pf-page {
+    min-height: 100vh;
+}
+
+#kc-header,
+#kc-header-wrapper,
+#kc-content,
+#kc-content-wrapper {
+    background: transparent !important;
+    background-image: none !important;
+}
+
+.inmo-page-shell {
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.inmo-card {
+    width: 100%;
+    max-width: 800px;
+    background: #ffffff;
+    border: 1px solid #e7ecf3;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(16, 24, 40, 0.12);
+    padding: 24px;
+}
+
+.inmo-card-compact {
+    max-width: 700px;
+}
+
+.inmo-card-title {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #1976d2;
+}
+
+.inmo-subtitle {
+    margin: 0 0 16px;
+    color: #171717;
+    line-height: 1.5;
+}
+
+.inmo-help-box {
+    border: 1px solid #e7ecf3;
+    background: #f7f9fc;
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin: 0 0 16px;
+}
+
+.inmo-help-title {
+    margin: 0 0 8px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #171717;
+}
+
+.inmo-help-list {
+    margin: 0;
+    padding-left: 18px;
+    color: #171717;
+    line-height: 1.5;
+}
+
+.inmo-info-alert {
+    border: 1px solid #90caf9;
+    background: #e3f2fd;
+    color: #0d47a1;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin: 0 0 14px;
+    font-size: 0.9rem;
+}
+
+.inmo-inline-action {
+    margin-top: 4px;
+}
+
+.inmo-link-action {
+    margin: 0 4px;
+    font-weight: 600;
+    color: #1976d2;
+    text-decoration: none;
+}
+
+.inmo-link-action:hover {
+    color: #115293;
+    text-decoration: underline;
+}
+
+.inmo-cta-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 0 24px;
+    border-radius: 8px;
+    background: #1976d2;
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.inmo-cta-link:hover {
+    background: #115293;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.inmo-login-form {
+    margin-top: 8px;
+}
+
+.inmo-input {
+    min-height: 40px;
+    border-radius: 8px;
+}
+
+.inmo-inline-link {
+    color: #1976d2;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.inmo-inline-link:hover {
+    color: #115293;
+    text-decoration: underline;
+}
+
+.inmo-login-button {
+    margin-top: 8px;
+}
+
+.inmo-password-form {
+    margin-top: 8px;
+}
+
+.inmo-options {
+    margin-bottom: 14px;
+}
+
+.inmo-primary-button {
+    font-weight: 700;
+    background-color: #1976d2 !important;
+    border-radius: 8px !important;
+}
+
+.inmo-primary-button:hover {
+    background-color: #115293 !important;
+}
