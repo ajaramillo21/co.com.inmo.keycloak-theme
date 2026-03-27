@@ -26,6 +26,35 @@ body.inmo-kc-body,
     background-image: none !important;
 }
 
+#kc-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    margin: 0 !important;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    background: #1976d2 !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    z-index: 30;
+}
+
+#kc-header-wrapper {
+    display: none;
+}
+
+#kc-locale,
+#kc-locale-wrapper {
+    display: none !important;
+}
+
+.inmo-kc-login,
+.login-pf-page {
+    padding-top: 92px !important;
+}
+
 .inmo-page-shell {
     min-height: 100%;
     display: flex;
